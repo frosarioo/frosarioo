@@ -11,12 +11,12 @@ I am dedicated to staying up to date with emerging technologies, continuously im
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| hola          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| 1 | <a href="https://google.com">Detection Lab</a>|
+| 2 | <a href="https://google.com">Detection Lab</a>|
+| 3 | <a href="https://google.com">Detection Lab</a>|
+| 4 | <a href="https://google.com">Detection Lab</a>|
+| 5 | <a href="https://google.com">Detection Lab</a>|
+| 6 | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
