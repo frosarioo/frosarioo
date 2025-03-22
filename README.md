@@ -49,7 +49,6 @@ I am dedicated to staying up to date with emerging technologies, continuously im
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-[![Cyber Threat Management](https://img.shields.io/badge/-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white)](https://www.cisco.com/)
 
 </div>
 
