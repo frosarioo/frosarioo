@@ -53,5 +53,5 @@ I am dedicated to staying up to date with emerging technologies, continuously im
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://google.com">PfSense Configuration Lab</a>
 - SOC Automation Project
