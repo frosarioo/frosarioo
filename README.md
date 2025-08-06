@@ -13,13 +13,9 @@ I am dedicated to staying up to date with emerging technologies, continuously im
 |-----------------------------------------------|----------------------------|
 | Ethical Hacking | <a href="https://github.com/frosarioo/frosarioo/tree/94825ad3ba15ef855a4ef83bb9feb057c00a7bca/Password%20Cracker">Simple Password Cracker - Python</a>|
 | 2 | <a href="https://google.com">Detection Lab</a>|
-| 3 | <a href="https://google.com">Detection Lab</a>|
-| 4 | <a href="https://google.com">Detection Lab</a>|
-| 5 | <a href="https://google.com">Detection Lab</a>|
-| 6 | <a href="https://google.com">Detection Lab</a>|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
