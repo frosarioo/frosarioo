@@ -20,6 +20,7 @@ I am dedicated to staying up to date with emerging technologies, continuously im
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-UniFi-055DA7?&style=for-the-badge&logo=Ubiquiti&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-222222?&style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
 ### Endpoint
