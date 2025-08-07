@@ -12,7 +12,6 @@ I am dedicated to staying up to date with emerging technologies, continuously im
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Ethical Hacking | <a href="https://github.com/frosarioo/frosarioo/tree/94825ad3ba15ef855a4ef83bb9feb057c00a7bca/Password%20Cracker">Simple Password Cracker - Python</a>|
-| 2 | <a href="https://google.com">Detection Lab</a>|
 
 
 ## Tools
@@ -44,4 +43,3 @@ I am dedicated to staying up to date with emerging technologies, continuously im
 
 ## Projects
 - <a href="https://github.com/frosarioo/frosarioo/tree/94825ad3ba15ef855a4ef83bb9feb057c00a7bca/Password%20Cracker">Simple Password Cracker</a>
-- SOC Automation Project
