@@ -20,22 +20,26 @@ I am dedicated to staying up to date with emerging technologies, continuously im
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UniFi-055DA7?&style=for-the-badge&logo=Ubiquiti&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-
+    <img src="https://img.shields.io/badge/-Microsoft%20Intune-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20AD-2672EC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-
+    <img src="https://img.shields.io/badge/-Wazuh-005577?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-2394BC?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ## Certifications
 
 <div>
     <img src="https://img.shields.io/badge/-CompTIA-EA1C2D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20NetAcad-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ## Projects
