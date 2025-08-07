@@ -1,5 +1,9 @@
 # Hello, I'm Francisco!
 <a href="https://www.linkedin.com/in/francisco-rosario26/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/users/francisco-rosario.2954a5c8">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+
 
 I am a recently graduated Cybersecurity student with a strong interest in problem-solving and network analysis.
 
