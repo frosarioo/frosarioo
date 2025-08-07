@@ -35,7 +35,7 @@ I am dedicated to staying up to date with emerging technologies, continuously im
 ## Certifications
 
 <div>
-
+    <img src="https://img.shields.io/badge/-CompTIA-EA1C2D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
